@@ -1,8 +1,7 @@
 <?php
 /**
- * Copyright (c) 2018. 
- * Copyright Holder : CompactCode - CompactCode BvBa - Belgium
- * Copyright : Unless granted permission from CompactCode BvBa  you can not distrubute , reuse  , edit , resell or sell this.
+ * @author Convert Team
+ * @copyright Copyright (c) 2018 Convert (http://www.convert.no/)
  */
 
 \Magento\Framework\Component\ComponentRegistrar::register(
